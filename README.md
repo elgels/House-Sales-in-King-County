@@ -1,2 +1,2 @@
 # House-Sales-in-King-County
-Assignment for the IBM Data Analysis with Python course. 
+IBM Data Analyst with Python course. 
